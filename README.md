@@ -30,7 +30,7 @@
 <br>
 <br>
 #### Techs I've used least once
-<img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat&logo=android studio&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=android studio&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
